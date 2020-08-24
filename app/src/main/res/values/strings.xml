@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW7-1-1</string>
+    <string name="sync">СИНХРОНИЗАЦИЯ</string>
+    <string name="morning">Утро</string>
+    <string name="afternoon">День</string>
+    <string name="evening">Вечер / Ночь</string>
+</resources>
